@@ -2,11 +2,11 @@
 <a href="https://www.linkedin.com/in/pawaridtupmongkol"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I have a profound interest in technology and a dedication to solving complex problems.
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+With professional experience in the tech industry and a strong passion for cybersecurity, I am actively pursuing a career shift into this dynamic field. I am committed to hands-on training through home labs and continuous learning, having recently completed certifications in Google IT Support and Cybersecurity. Currently, I am working towards ISC2 Certified in Cybersecurity (CC) and CompTIA Security+ certifications, aiming to build the skills needed for a role in a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
 
@@ -18,6 +18,11 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+|Advanced Network Threat Detection & Baseline Analytics| SOC Analyst Investigation Lab|
+|Incident Scoping, Correlation & Enrichment	| SOC Analyst Investigation Lab|
+|OSINT & Threat Intelligence Research           | SOC Analyst Investigation Lab|
+|Agentic AI Integration for Automated Triage	| Updated SOC Automation Lab|
+|End-to-End Playbook Design (Detection → Response)|	Updated SOC Automation Lab|
 
 ## Tools
 
@@ -32,6 +37,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Sysmon-0D3B66?&style=for-the-badge&logo=windows&logoColor=white" />
 </div>
 
 ### Cloud
@@ -43,6 +49,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wazuh-1E90FF?&style=for-the-badge&logo=securityscorecard&logoColor=white" />
 </div>
 
 ## Certifications
@@ -60,4 +67,5 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Projects
 -  <a href="https://github.com/guidebruh/Detection-Lab/tree/main">Detection Lab</a>
 - SOC Automation Project
-- Test project
+- SOC Analyst Investigation Lab
+- Updated SOC Automation Lab
