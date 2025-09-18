@@ -13,14 +13,14 @@ With professional experience in the tech industry and a strong passion for cyber
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/guidebruh/Detection-Lab/tree/main">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-|Advanced Network Threat Detection & Baseline Analytics| SOC Analyst Investigation Lab|
-|Incident Scoping, Correlation & Enrichment	| SOC Analyst Investigation Lab|
-|OSINT & Threat Intelligence Research           | SOC Analyst Investigation Lab|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/guidebruh/Detection-Lab/tree/main">Detection Lab</a>|
+| Security Automation with Shuffle SOAR         | <a href="https://github.com/guidebruh/SOC-Automation-Lab/tree/main">SOC Automation Lab</a>|
+| Incident Response Planning and Execution      | <a href="https://github.com/guidebruh/SOC-Automation-Lab/tree/main">SOC Automation Lab</a>|
+| Case Management with TheHive                  | <a href="https://github.com/guidebruh/SOC-Automation-Lab/tree/main">SOC Automation Lab</a>|
+| Scripting and Automation for Threat Mitigation | <a href="https://github.com/guidebruh/SOC-Automation-Lab/tree/main">SOC Automation Lab</a>|
+|Advanced Network Threat Detection & Baseline Analytics| <a href="https://github.com/guidebruh/SOC-Analyst-Investigation-Lab/tree/main">SOC Analyst Investigation Lab</a>|
+|Incident Scoping, Correlation & Enrichment	| <a href="https://github.com/guidebruh/SOC-Analyst-Investigation-Lab/tree/main">SOC Analyst Investigation Lab</a>|
+|OSINT & Threat Intelligence Research           | <a href="https://github.com/guidebruh/SOC-Analyst-Investigation-Lab/tree/main">SOC Analyst Investigation Lab</a>|
 |Agentic AI Integration for Automated Triage	| AI-Enhanced SOC Automation Lab|
 |End-to-End Playbook Design (Detection → Response)|	AI-Enhanced SOC Automation Lab|
 |Containerization & Image Vulnerability Management| Container Security Lab|
