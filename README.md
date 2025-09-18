@@ -21,8 +21,12 @@ With professional experience in the tech industry and a strong passion for cyber
 |Advanced Network Threat Detection & Baseline Analytics| SOC Analyst Investigation Lab|
 |Incident Scoping, Correlation & Enrichment	| SOC Analyst Investigation Lab|
 |OSINT & Threat Intelligence Research           | SOC Analyst Investigation Lab|
-|Agentic AI Integration for Automated Triage	| Updated SOC Automation Lab|
-|End-to-End Playbook Design (Detection → Response)|	Updated SOC Automation Lab|
+|Agentic AI Integration for Automated Triage	| AI-Enhanced SOC Automation Lab|
+|End-to-End Playbook Design (Detection → Response)|	AI-Enhanced SOC Automation Lab|
+|Containerization & Image Vulnerability Management| Container Security Lab|
+|Static and Dynamic Application Security Testing| Container Security Lab|
+|CI/CD Pipeline Security Integration|	            Container Security Lab|
+|Threat Modeling & Risk-Based Remediation Decisions|	Container Security Lab|
 
 ## Tools
 
@@ -52,6 +56,31 @@ With professional experience in the tech industry and a strong passion for cyber
     <img src="https://img.shields.io/badge/-Wazuh-1E90FF?&style=for-the-badge&logo=securityscorecard&logoColor=white" />
 </div>
 
+### SOAR
+<div>  
+     <img src="https://img.shields.io/badge/-Shuffle-5A67D8?&style=for-the-badge&logo=shuffle&logoColor=white" />
+</div>
+
+### Case Management
+<div>  
+     <img src="https://img.shields.io/badge/-TheHive-28BFE0?&style=for-the-badge&logo=thehive&logoColor=white" />
+</div>
+
+### Container / DevSecOps
+<div>  
+     <img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?&style=for-the-badge&logo=github-actions&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Snyk-660099?&style=for-the-badge&logo=snyk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Docker_Scout-1D63ED?&style=for-the-badge&logo=docker&logoColor=white" />
+</div>
+
+### AI/Agentic
+<div>  
+    <img src="https://img.shields.io/badge/-OpenAI_GPT--4o-000000?&style=for-the-badge&logo=openai&logoColor=white" />
+    <img src="https://img.shields.io/badge/-VirusTotal_API-FF6C37?&style=for-the-badge&logo=virustotal&logoColor=white" />
+    <img src="https://img.shields.io/badge/-OSINT_Enrichment-003366?&style=for-the-badge&logo=search&logoColor=white" />
+</div>
+
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
@@ -68,4 +97,5 @@ With professional experience in the tech industry and a strong passion for cyber
 -  <a href="https://github.com/guidebruh/Detection-Lab/tree/main">Detection Lab</a>
 - SOC Automation Project
 - SOC Analyst Investigation Lab
-- Updated SOC Automation Lab
+- AI-Enhanced SOC Automation Lab
+- Container Security Lab
