@@ -21,12 +21,12 @@ With professional experience in the tech industry and a strong passion for cyber
 |Advanced Network Threat Detection & Baseline Analytics| <a href="https://github.com/guidebruh/SOC-Analyst-Investigation-Lab/tree/main">SOC Analyst Investigation Lab</a>|
 |Incident Scoping, Correlation & Enrichment	| <a href="https://github.com/guidebruh/SOC-Analyst-Investigation-Lab/tree/main">SOC Analyst Investigation Lab</a>|
 |OSINT & Threat Intelligence Research           | <a href="https://github.com/guidebruh/SOC-Analyst-Investigation-Lab/tree/main">SOC Analyst Investigation Lab</a>|
-|Agentic AI Integration for Automated Triage	| AI-Enhanced SOC Automation Lab|
-|End-to-End Playbook Design (Detection → Response)|	AI-Enhanced SOC Automation Lab|
-|Containerization & Image Vulnerability Management| Container Security Lab|
-|Static and Dynamic Application Security Testing| Container Security Lab|
-|CI/CD Pipeline Security Integration|	            Container Security Lab|
-|Threat Modeling & Risk-Based Remediation Decisions|	Container Security Lab|
+|Agentic AI Integration for Automated Triage	| <a href="https://github.com/guidebruh/AI-Enhanced-SOC-Automation-Lab/tree/main">AI-Enhanced SOC Automation Lab</a>|
+|End-to-End Playbook Design (Detection → Response)|	<a href="https://github.com/guidebruh/AI-Enhanced-SOC-Automation-Lab/tree/main">AI-Enhanced SOC Automation Lab</a>|
+|Containerization & Image Vulnerability Management| <a href="https://github.com/guidebruh/Container-Security-Lab/tree/main">Container Security Lab</a>|
+|Static and Dynamic Application Security Testing| <a href="https://github.com/guidebruh/Container-Security-Lab/tree/main">Container Security Lab</a>|
+|CI/CD Pipeline Security Integration|	            <a href="https://github.com/guidebruh/Container-Security-Lab/tree/main">Container Security Lab</a>|
+|Threat Modeling & Risk-Based Remediation Decisions|	<a href="https://github.com/guidebruh/Container-Security-Lab/tree/main">Container Security Lab</a>|
 
 ## Tools
 
@@ -95,7 +95,7 @@ With professional experience in the tech industry and a strong passion for cyber
 
 ## Projects
 -  <a href="https://github.com/guidebruh/Detection-Lab/tree/main">Detection Lab</a>
-- SOC Automation Project
-- SOC Analyst Investigation Lab
-- AI-Enhanced SOC Automation Lab
-- Container Security Lab
+-  <a href="https://github.com/guidebruh/SOC-Automation-Lab/tree/main">SOC Automation Lab</a>
+-  <a href="https://github.com/guidebruh/SOC-Analyst-Investigation-Lab/tree/main">SOC Analyst Investigation Lab</a>
+-  <a href="https://github.com/guidebruh/AI-Enhanced-SOC-Automation-Lab/tree/main">AI-Enhanced SOC Automation Lab</a>
+-  <a href="https://github.com/guidebruh/Container-Security-Lab/tree/main">Container Security Lab</a>
