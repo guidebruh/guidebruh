@@ -1,12 +1,16 @@
-# Hello, I'm Pawarid
-<a href="https://www.linkedin.com/in/pawaridtupmongkol"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/8df99fcb-41b7-4805-bd4b-17ecdaaa127e" />
+
+<h1 align="center">Hello, World! 👋 I'm Guide</h1>
+<h3 align="center">A passionate IT & Cybersecurity professional committed to protecting data and enhancing cybersecurity measures</h3>
+ <br />
+
+ Thank you for visiting my GitHub! This repository is meant to showcase my cybersecurity journey and the projects I've had the privilege of working on.
+
+I've had the honor of working in a variety of tech-related positions over the past few years. I've always been motivated by the urge to use technology to solve challenges and enhance user experiences, from debugging difficult technical difficulties to managing service requests and putting software solutions in place. These encounters have helped me to develop a solid set of IT abilities and have molded my perspective of the digital world. But I ultimately discovered my true calling in the field of cybersecurity. My background in IT gave me the appropriate foundation to go deeply into this area because I have always been fascinated by the complexities of safeguarding digital systems.
+
+I invite you to explore my GitHub portfolio to get a glimpse into my technical capabilities. These projects showcase insights into my problem-solving approach, attention to detail, and ability to analyze risks and implement appropriate mitigation strategies.
 
 
-I have a profound interest in technology and a dedication to solving complex problems.
-
-## Objective
-
-With professional experience in the tech industry and a strong passion for cybersecurity, I am actively pursuing a career shift into this dynamic field. I am committed to hands-on training through home labs and continuous learning, having recently completed certifications in Google IT Support and Cybersecurity. Currently, I am working towards ISC2 Certified in Cybersecurity (CC) and CompTIA Security+ certifications, aiming to build the skills needed for a role in a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
 
