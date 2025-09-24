@@ -31,6 +31,13 @@ I invite you to explore my GitHub portfolio to get a glimpse into my technical c
 |Static and Dynamic Application Security Testing| <a href="https://github.com/guidebruh/Container-Security-Lab/tree/main">Container Security Lab</a>|
 |CI/CD Pipeline Security Integration|	            <a href="https://github.com/guidebruh/Container-Security-Lab/tree/main">Container Security Lab</a>|
 |Threat Modeling & Risk-Based Remediation Decisions|	<a href="https://github.com/guidebruh/Container-Security-Lab/tree/main">Container Security Lab</a>|
+|Azure Security Architecture & Monitoring	| Azure Honey Net SOC|
+|Log Analytics & KQL Querying in Cloud SOC	| Azure Honey Net SOC|
+|Endpoint Hardening & Cloud Security Controls	| Azure Honey Net SOC|
+|SQL for Security Event Analysis	Security | Incident Analysis Using SQL|
+|Azure Virtual Machine Provisioning & Security	| Azure VM Prep|
+|Active Directory User & Group Management	| ActiveDirectory Lab|
+|AD Security Policies & Permissions	| ActiveDirectory Lab|
 
 ## Tools
 
