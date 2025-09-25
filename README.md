@@ -16,8 +16,12 @@ I invite you to explore my GitHub portfolio to get a glimpse into my technical c
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/guidebruh/Detection-Lab/tree/main">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/guidebruh/Detection-Lab/tree/main">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | Azure Honey Net SOC|
+| Network Traffic Monitoring and Attack Detection | Azure Honey Net SOC|
+|Azure Security Architecture & Monitoring	| Azure Honey Net SOC|
+|Log Analytics & KQL Querying in Cloud SOC	| Azure Honey Net SOC|
+|Endpoint Hardening & Cloud Security Controls	| Azure Honey Net SOC|
+|Azure Virtual Machine Provisioning & Security	| Azure VM Prep|
 | Security Automation with Shuffle SOAR         | <a href="https://github.com/guidebruh/SOC-Automation-Lab/tree/main">SOC Automation Lab</a>|
 | Incident Response Planning and Execution      | <a href="https://github.com/guidebruh/SOC-Automation-Lab/tree/main">SOC Automation Lab</a>|
 | Case Management with TheHive                  | <a href="https://github.com/guidebruh/SOC-Automation-Lab/tree/main">SOC Automation Lab</a>|
@@ -31,11 +35,7 @@ I invite you to explore my GitHub portfolio to get a glimpse into my technical c
 |Static and Dynamic Application Security Testing| <a href="https://github.com/guidebruh/Container-Security-Lab/tree/main">Container Security Lab</a>|
 |CI/CD Pipeline Security Integration|	            <a href="https://github.com/guidebruh/Container-Security-Lab/tree/main">Container Security Lab</a>|
 |Threat Modeling & Risk-Based Remediation Decisions|	<a href="https://github.com/guidebruh/Container-Security-Lab/tree/main">Container Security Lab</a>|
-|Azure Security Architecture & Monitoring	| Azure Honey Net SOC|
-|Log Analytics & KQL Querying in Cloud SOC	| Azure Honey Net SOC|
-|Endpoint Hardening & Cloud Security Controls	| Azure Honey Net SOC|
 |SQL for Security Event Analysis	Security | Incident Analysis Using SQL|
-|Azure Virtual Machine Provisioning & Security	| Azure VM Prep|
 |Active Directory User & Group Management	| ActiveDirectory Lab|
 |AD Security Policies & Permissions	| ActiveDirectory Lab|
 
